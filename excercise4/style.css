@@ -12,4 +12,6 @@ li {
 .block {
     display: block;
 }
-
+ body,p,ul,li {
+     padding: .8em;
+ }
