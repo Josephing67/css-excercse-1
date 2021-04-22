@@ -21,3 +21,7 @@ p   {
     height: 400px;
     width: 400px;
 }
+
+img   {
+    visibility: hidden;
+}
