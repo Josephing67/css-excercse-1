@@ -16,3 +16,8 @@ p   {
 .box1   {
     height: 200px;
 }
+
+.box2   {
+    height: 400px;
+    width: 400px;
+}
